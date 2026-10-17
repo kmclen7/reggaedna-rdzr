@@ -1,0 +1,1 @@
+import{_ as t}from"./C7nqHXwL.js";import{f as c,j as s,u as a,L as n,o as _}from"./BYSyNz4I.js";import{u as r}from"./CJiBH4AT.js";const d=c({__name:"accessibility",setup(i){const e=n.accessibility;return r({title:e.title}),(m,p)=>{const o=t;return _(),s(o,{doc:a(e)},null,8,["doc"])}}});export{d as default};

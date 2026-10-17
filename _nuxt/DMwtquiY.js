@@ -1,0 +1,1 @@
+import{_ as t}from"./C7nqHXwL.js";import{f as a,j as n,u as c,L as r,o as _}from"./BYSyNz4I.js";import{u as s}from"./CJiBH4AT.js";const d=a({__name:"privacy",setup(p){const o=r.privacy;return s({title:o.title}),(m,u)=>{const e=t;return _(),n(e,{doc:c(o)},null,8,["doc"])}}});export{d as default};

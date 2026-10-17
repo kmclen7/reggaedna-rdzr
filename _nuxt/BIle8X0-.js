@@ -1,0 +1,1 @@
+import{_ as e}from"./C7nqHXwL.js";import{f as n,j as c,u as a,L as r,o as _}from"./BYSyNz4I.js";import{u as s}from"./CJiBH4AT.js";const d=n({__name:"copyright",setup(p){const o=r.copyright;return s({title:o.title}),(m,u)=>{const t=e;return _(),c(t,{doc:a(o)},null,8,["doc"])}}});export{d as default};
